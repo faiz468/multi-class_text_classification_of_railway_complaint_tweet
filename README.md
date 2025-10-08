@@ -5,8 +5,10 @@ It also classifies complaint tweets into the different categories according to d
 we prepare the dataset for this problem from scratch.
 we used BERT transformer in our project.
 
-•	Distinguishes between complaints and non-complaints with an accuracy of 81% outperforming the baseline model. \n
-•	Further categorizes complaints into 12 predefined types to enhance query resolution workflows. \n
+•	Distinguishes between complaints and non-complaints with an accuracy of 98% outperforming the baseline model and perform further multi-class classification (into 12 predefined types) with an accuracy of 68.18%. 
+
+•	Further categorizes complaints into 12 predefined types to enhance query resolution workflows. 
+
 •	Developed a dataset with 4,536 instances for this problem and employs the self made semi automated pipeline to label the tweets. 
 
 We use a semi-automated process to label our dataset, take help of zero-shot-classification model, gpt and 
