@@ -11,5 +11,7 @@ we used BERT transformer in our project.
 
 •	Developed a dataset with 4,536 instances for this problem and employs the self made semi automated pipeline to label the tweets. 
 
+![Image](https://github.com/faiz468/multi-class_text_classification_of_railway_complaint_tweet/blob/main/railway%20classifier.png)
+
 We use a semi-automated process to label our dataset, take help of zero-shot-classification model, gpt and 
 also a manual check to maintain the accuracy of labelling. More Details- https://github.com/faiz468/data_labelling_for_textclassification
